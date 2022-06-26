@@ -85,7 +85,7 @@
   }
   
   .btn--passive {
-    color: #00329e;
+    color: #679e00;
     background: transparent;
     border: none;
     box-shadow: none;
@@ -128,7 +128,7 @@
   .modal .modal__title {
     margin: 0;
     padding: 1rem;
-    border-bottom: 1px solid #00329e;
+    border-bottom: 1px solid #9e8600;
     background: #00329e;
     color: white;
     border-radius: 10px 10px 0 0;
